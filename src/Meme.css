@@ -1,0 +1,36 @@
+button {
+  background: linear-gradient(-225deg, #ac32e4 0%, #7918f2 48%, #4801ff 100%);
+  font-size: 24px;
+  font-weight: bold;
+  color: #ffffff;
+  letter-spacing: -2px;
+  display: block;
+  margin: 0 auto;
+  padding: 20px 270px;
+  border: none;
+  border-radius: 5px;
+}
+
+.input-grid {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border: none;
+}
+
+.intruction-text {
+  font-size: 24px;
+  font-weight: 500;
+  color: #374151;
+}
+
+input {
+  width: 350px;
+  line-height: 2;
+  font-size: 25px;
+}
+
+.second-box {
+  margin-left: 50px;
+}

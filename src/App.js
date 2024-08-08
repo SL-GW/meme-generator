@@ -1,12 +1,14 @@
 import "./App.css";
 import NavBar from "./NavBar";
+import Meme from "./Meme";
 
-function App() {
+export default function App() {
   return (
     <div className="App">
       <NavBar />
+      <div>
+        <Meme />
+      </div>
     </div>
   );
 }
-
-export default App;
