@@ -40,3 +40,10 @@ input {
 .second-box {
   margin-left: 50px;
 }
+
+.meme-image-result {
+  width: 400px;
+  display: block;
+  margin: auto;
+  padding-top: 30px;
+}
