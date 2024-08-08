@@ -1,0 +1,13 @@
+.Footer {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 14px;
+}
+a {
+  text-decoration-line: none;
+  color: #660ff7;
+}
+
+a:hover {
+  font-weight: 600;
+}
